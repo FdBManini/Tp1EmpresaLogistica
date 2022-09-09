@@ -1,0 +1,6 @@
+*.pdf
+*.exe
+.vscode
+Ordenar-Vect.cpp
+Test-Tp1-main.cpp
+Tp1-Func.cpp
